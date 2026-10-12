@@ -5,9 +5,9 @@ function setup()
   background(0)
   textSize(15)
   text("Click to generate a poem", 175, 200)
-  firstLine = {"music,", "you,", "statues,", "cabins,", "valleys,", "mountains,", "dogs,", "pine,", "cicadas,", "magazines,", "the woods," }
-  secondLine = {"you", "poetry", "old books", "trinkets", "instruments", "insects", "wood ovens", "old movies", "mysel,", "snakes"}
-  thirdLine = {"swinging over a creek.", "collecting evidence of life.", "the things I never told you.", "unevident grief.", "swimming in a reedy pond.", "collections of abandoned writing.", "being scared of dogs.", "learning a new language.", "orchestras I'm not in.", "the fiddle I left four hours northwest."}
+  firstLine = {"music,", "you,", "statues,", "violins,", "cabins,", "valleys,", "mountains,", "dogs,", "pine,", "cicadas,", "magazines,", "the woods,", "nuns,"}
+  secondLine = {"you", "poetry", "old books", "trinkets", "instruments", "insects", "wood ovens", "old movies", "myself,", "snakes", "monastaries"}
+  thirdLine = {"peering through stained glass windows.","swinging over a creek.", "collecting evidence of life.", "the things I never told you.", "unevident grief.", "swimming in a reedy pond.", "collections of abandoned writing.", "being scared of dogs.", "learning a new language.", "orchestras I'm not in.", "the fiddle I left four hours northwest."}
 end
 
 function textGenerator()
